@@ -44,13 +44,13 @@ Aquí tienes un vistazo a las tecnologías que manejo para dar vida a diferentes
 
 | Proyecto | Descripción | Tecnologías Clave |
 | :--- | :--- | :--- |
-| **[Alebrain]** | Plataforma educativa enfocada en inclusión cognitiva y accesibilidad pedagógica (Proyecto de InnovaTec). | `Frontend` `Backend` |
-| **[EvaluacionDocente]** | Sistema web de evaluación docente con manejo seguro de flujos de login y consumo de APIs. | `.NET 8` `MySQL` `Tailwind` |
-| **[Akame]** | Proyecto especializado desarrollado con un backend robusto y lógica dinámica en el cliente. | `SQL Server` `JavaScript` |
+| **Alebrain** | Plataforma educativa enfocada en inclusión cognitiva y accesibilidad pedagógica (Proyecto de InnovaTec). | `Frontend` `Backend` |
+| **EvaluacionDocente** | Sistema web de evaluación docente con manejo seguro de flujos de login y consumo de APIs. | `.NET 8` `MySQL` `Tailwind` |
+| **Akame** | Proyecto especializado desarrollado con un backend robusto y lógica dinámica en el cliente. | `SQL Server` `JavaScript` |
 
 ---
 
-## 🐍 Club "Snakes"
+## 🐍 Club Snakes
 
 Además de mi desarrollo individual, lidero el **Club Snakes**, un club de programación universitaria enfocado en impulsar el talento técnico, compartir conocimiento y desarrollar proyectos colaborativos. Nos dedicamos a crear comunidad mediante mentorías, retos de código y preparación para entornos reales de desarrollo.
 
