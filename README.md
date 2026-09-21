@@ -73,9 +73,9 @@ El desarrollo de software se trata de resolver problemas reales. Aquí presento 
 
 | Proyecto | Descripción y Enfoque | Tecnologías Clave |
 | :--- | :--- | :--- |
-| 🎓 **Evaluación Docente** | Sistema web integral desarrollado para el **Instituto Tecnológico Superior de Poza Rica**. Su arquitectura contempla el manejo seguro de flujos de login, roles de usuario y consumo de APIs para la automatización de métricas. | `C#` `.NET 8` `MySQL` `Tailwind CSS` |
-| 🧠 **Alebrain** | Aplicación móvil diseñada con un enfoque institucional para apoyar a niños con TDAH. Integra accesibilidad pedagógica e inclusión cognitiva en interfaces adaptables. Proyecto destacado a nivel regional. | `Frontend Mobile` `Backend` |
-| 📍 **AkameEdu** | Plataforma dinámica de geolocalización de universidades. Permite a los usuarios realizar filtrados complejos por carrera, estado y oferta educativa, operando sobre un backend robusto y lógica de cliente eficiente. | `SQL Server` `JavaScript` `C# Y .NET` |
+|  **Evaluación Docente** | Sistema web integral desarrollado para el **Instituto Tecnológico Superior de Poza Rica**. Su arquitectura contempla el manejo seguro de flujos de login, roles de usuario y consumo de APIs para la automatización de métricas. | `C#` `.NET 8` `MySQL` `Tailwind CSS` |
+|  **Alebrain** | Aplicación móvil diseñada con un enfoque institucional para apoyar a niños con TDAH. Integra accesibilidad pedagógica e inclusión cognitiva en interfaces adaptables. Proyecto destacado a nivel regional. | `Frontend Mobile` `Backend` |
+|  **AkameEdu** | Plataforma dinámica de geolocalización de universidades. Permite a los usuarios realizar filtrados complejos por carrera, estado y oferta educativa, operando sobre un backend robusto y lógica de cliente eficiente. | `SQL Server` `JavaScript` `C# Y .NET` |
 
 ---
 
