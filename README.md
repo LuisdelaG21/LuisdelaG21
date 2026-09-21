@@ -37,7 +37,7 @@ Aquí tienes un vistazo a las tecnologías que manejo para dar vida a diferentes
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### 🔧 Herramientas & Control de Versiones
@@ -57,11 +57,12 @@ Aquí tienes un vistazo a las tecnologías que manejo para dar vida a diferentes
 
 ## 📊 Mis Estadísticas en GitHub
 
-A continuación, un resumen de mi actividad y el peso de los lenguajes que utilizo frecuentemente en mis proyectos (en orden: Java, C#, CSS, JavaScript, Python y SQL).
+A continuación, un resumen de mi actividad y el peso de los lenguajes que utilizo frecuentemente en mis proyectos.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisdelaG21&amp;show_icons=true&amp;theme=radical&amp;v=1" alt="Estadísticas de Luis" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisdelaG21&amp;layout=compact&amp;theme=radical&amp;v=1" alt="Lenguajes Top" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=LuisdelaG21&theme=radical&hide_border=true" alt="Racha de contribuciones de Luis" width="57%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisdelaG21&theme=radical" alt="Lenguajes Top" width="38%" />
 </div>  
 
 ---
@@ -74,7 +75,7 @@ El desarrollo de software se trata de resolver problemas reales. Aquí presento 
 | :--- | :--- | :--- |
 | 🎓 **Evaluación Docente** | Sistema web integral desarrollado para el **Instituto Tecnológico Superior de Poza Rica**. Su arquitectura contempla el manejo seguro de flujos de login, roles de usuario y consumo de APIs para la automatización de métricas. | `C#` `.NET 8` `MySQL` `Tailwind CSS` |
 | 🧠 **Alebrain** | Aplicación móvil diseñada con un enfoque institucional para apoyar a niños con TDAH. Integra accesibilidad pedagógica e inclusión cognitiva en interfaces adaptables. Proyecto destacado a nivel regional. | `Frontend Mobile` `Backend` |
-| 📍 **AkameEdu** | Plataforma dinámica de geolocalización de universidades. Permite a los usuarios realizar filtrados complejos por carrera, estado y oferta educativa, operando sobre un backend robusto y lógica de cliente eficiente. | `SQL Server` `JavaScript` `Angular` |
+| 📍 **AkameEdu** | Plataforma dinámica de geolocalización de universidades. Permite a los usuarios realizar filtrados complejos por carrera, estado y oferta educativa, operando sobre un backend robusto y lógica de cliente eficiente. | `SQL Server` `JavaScript` `C# Y .NET` |
 
 ---
 
@@ -111,4 +112,5 @@ Estoy buscando oportunidades para integrarme al sector profesional como Desarrol
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luisramos21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/luis_dela_g21?stkn=N3Nsd2N4amRyNHc="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram personal"/></a>
 </p>
